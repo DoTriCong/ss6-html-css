@@ -23,7 +23,6 @@ header nav a {
 .sidebar {
     width: 25%;
     padding: 20px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     border: 1px solid gray;
 }
 .sidebar h2 {
